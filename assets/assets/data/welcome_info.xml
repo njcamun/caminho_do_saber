@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<welcomeInfo>
+    <title>Bem-vindo ao Caminho do Conhecimento!</title>
+    <description>
+        Este quiz foi desenvolvido para testar e expandir seu conhecimento em diversas áreas. Prepare-se para um desafio divertido e educativo!
+    </description>
+    <whoAreWe>
+        <title>Quem Somos</title>
+        <text>A Educlass é um projecto educacional que tem como missão ajudar no desenvolvimento cognitivo e intelectual dos seus educandos
+			Temos como visão ser referência na educação contribuindo para melhoria no nível educacional na comunidade inserida
+			Nossos valores estão baseados nos princípios bíblicos de Bondade, Verdade & Beleza</text>
+    </whoAreWe>
+    <location>
+        <title>Localização</title>
+        <text>Luanda, Angola</text>
+		<text>Centralidade do Kilamba</text>
+		<text>Bloco X | Apartamento nº 30</text>
+    </location>
+    <contacts>
+        <title>Contactos</title>
+        <email>educlasseducacao@gmail.com</email>
+        <phone>+244 922 551 832</phone>
+        <socialMedia>@QuizConhecimento</socialMedia>
+    </contacts>
+</welcomeInfo>
